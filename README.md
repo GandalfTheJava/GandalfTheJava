@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Completed Bsc in Computer Science from Brunel University London.
-- 💼 &nbsp; Aspiring Software Engineer.
 - 🌱 &nbsp; Learning more about Technology by the day.
 - ✍️ &nbsp;  Hobbies include bodybuilding, football, and few other sports.
 
