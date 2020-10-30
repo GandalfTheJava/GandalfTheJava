@@ -31,7 +31,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <a href="https://itismehmet.herokuapp.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.itismehmet.herokuapp.com/-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/%F0%9F%92%BB-mehmet-cimen-016a35152/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mehmet%20Cimen-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mehmetcimen23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehmetcimen23@gmail.com-blue?style=flat-square&logo=gmail"></a>
